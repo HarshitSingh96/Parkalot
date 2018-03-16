@@ -1,7 +1,8 @@
 [
-        {
+        {] +
             "name": "regency",
             "Rating": "8.0",
+             "description":"",
             
             "categorie":"Elite",
             
@@ -61,7 +62,7 @@
             
             "categorie":"Elite",
             
-            "img": "https://www.pexels.com/search/building/"
+            "img": "https://images.pexels.com/photos/534182/pexels-photo-534182.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb/"
         },
         {
             "name": "kaul heritage",
@@ -69,7 +70,7 @@
             
             "categorie":"Premium",
             
-            "img": "https://www.pexels.com/search/building/"
+            "img": "https://images.pexels.com/photos/271689/pexels-photo-271689.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb"
         },
         {
             "name": "kamala mills park",
@@ -77,7 +78,7 @@
             
             "categorie":"Premium",
             
-            "img": "https://www.pexels.com/search/building/"
+            "img": "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb"
         },
         {
             "name": "venus apt",
@@ -85,7 +86,7 @@
             
             "categorie":"Elite",
             
-            "img": "https://www.pexels.com/search/building/"
+            "img": "http://2.bp.blogspot.com/-KQ6MLcAy8MI/UZyU4PxnUWI/AAAAAAAAJNI/bI1NV0J-bJo/s640/Venus+Apartment+(Worli).jpg"
         },
         {
             "name": "Saivinayak Appt",
@@ -93,7 +94,7 @@
             
             "categorie":"Premium | Elite | Average",
             
-            "img": "https://www.pexels.com/search/building/"
+            "img": "https://images.pexels.com/photos/388419/pexels-photo-388419.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb"
         },
         {
             "name": "Naruto: Shippuuden",
@@ -101,7 +102,7 @@
             
             "categorie":"Premium | Elite | Average",
             
-            "img": "https://www.pexels.com/search/building/"
+            "img": "https://images.pexels.com/photos/68631/pexels-photo-68631.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb"
         },
         
 ]
