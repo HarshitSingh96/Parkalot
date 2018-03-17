@@ -5,11 +5,11 @@
             
             "categorie":"Elite",
                 
-             "cost":"200",
+             "cost":200,
                 
              "location":"Dadar",
-                "latitude":"19.0189", 
-                "longitude":"72.8405",
+                "latitude":19.0189, 
+                "longitude":72.8405,
             
             "img": "https://imgix.ranker.com/node_img/476/9505712/original/antilia-building-attractions-photo-1?w=650&q=50&fm=jpg&fit=crop&crop=faces"
         },
@@ -19,12 +19,12 @@
             
             "categorie":"Premium",
                 
-                "cost":"150",
+                "cost":150,
                 
                  "location":"Thane",
                 
-                 "latitude":"19.1780", 
-                "longitude":"72.9785",
+                 "latitude":19.1780, 
+                "longitude":72.9785,
             
             "img": "https://housing.com/news/wp-content/uploads/2016/05/Mumbai%E2%80%99s-Tallest-Buildings-Air-India-building-301x400.jpg?x16513"
         },
@@ -34,12 +34,12 @@
           
             "categorie":"Premium",
                 
-                "cost":"150",
+                "cost":150,
                 
                  "location":"Panvel",
                 
-                 "latitude":"19.0166", 
-                "longitude":"73.0966",
+                 "latitude":19.0166, 
+                "longitude":73.0966,
          
             "img": "https://imgix.ranker.com/node_img/48/953017/original/eros-cinema-building-attractions-photo-1?w=650&q=60&fm=jpg&fit=crop&crop=faces"
         },
@@ -49,12 +49,12 @@
             
             "categorie":"Average",
                 
-                "cost":"100",
+                "cost":100,
                 
                  "location":"Dadar",
                 
-                 "latitude":"19.0268",
-                "longitude":"72.8389",
+                 "latitude":19.0268,
+                "longitude":72.8389,
             
             "img": "http://www.buildingbutler.com/images/gallery/large/building-facades-5195-16491.jpg"
         },
@@ -64,12 +64,12 @@
             
             "categorie":"Elite",
                 
-                "cost":"150",
+                "cost":150,
                 
                  "location":"Panvel",
                 
-                 "latitude":"18.990713", 
-                "longitude":"73.116844",
+                 "latitude":18.990713, 
+                "longitude":73.116844,
             
             "img": "https://jll-global-gdim-res.cloudinary.com/image/upload/t_ap-property-detail-pad-web/v1505556729/IN_ML20170916/Hoechst-House_7618_20170916_001.jpg"
         },
@@ -79,12 +79,12 @@
             
             "categorie":"Elite",
                 
-                "cost":"150",
+                "cost":150,
                 
                  "location":"Worli",
                 
-                 "latitude":"18.9872", 
-                "longitude":"72.8290",
+                 "latitude":18.9872, 
+                "longitude":72.8290,
             
             "img": "http://www.mittal.com/images/projects/skylark/main.jpg"
         },
@@ -94,12 +94,12 @@
             
             "categorie":"Average",
                 
-                "cost":"100",
+                "cost":100,
                 
                  "location":"Thane",
                 
-                 "latitude":"19.2445", 
-                "longitude":"72.9815",
+                 "latitude":19.2445, 
+                "longitude":72.9815,
             
             "img": "https://previews.agefotostock.com/previewimage/medibigoff/31d1556ac2eddea01980cdfd5837e722/wr0282512.jpg"
         },
@@ -109,12 +109,12 @@
             
             "categorie":"Elite",
                 
-                "cost":"150",
+                "cost":150,
                 
                  "location":"Dadar",
                 
-                 "latitude":"19.1804", 
-                "longitude":"72.459192",
+                 "latitude":19.1804, 
+                "longitude":72.459192,
             
             "img": "https://images.pexels.com/photos/534182/pexels-photo-534182.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb/"
         },
@@ -124,12 +124,12 @@
             
             "categorie":"Premium",
                 
-                "cost":"200",
+                "cost":200,
                 
                  "location":"Worli",
                 
-                 "latitude":"19.0189", 
-                "longitude":"72.8405",
+                 "latitude":19.0189, 
+                "longitude":72.8405,
             
             "img": "https://images.pexels.com/photos/271689/pexels-photo-271689.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb"
         },
@@ -139,12 +139,12 @@
             
             "categorie":"Premium",
                 
-                "cost":"200",
+                "cost":200,
                 
                  "location":"Dadar",
                 
-                 "latitude":"19.0099", 
-                "longitude":"72.8427",
+                 "latitude":19.0099, 
+                "longitude":72.8427,
             
             "img": "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb"
         },
@@ -154,12 +154,12 @@
             
             "categorie":"Elite",
                 
-                "cost":"150",
+                "cost":150,
                 
                  "location":"Worli",
                 
-                 "latitude":"19.0075", 
-                "longitude":"72.8359",
+                 "latitude":19.0075, 
+                "longitude":72.8359,
             
             "img": "http://2.bp.blogspot.com/-KQ6MLcAy8MI/UZyU4PxnUWI/AAAAAAAAJNI/bI1NV0J-bJo/s640/Venus+Apartment+(Worli).jpg"
         },
@@ -169,12 +169,12 @@
             
             "categorie":"Average",
                 
-                "cost":"100",
+                "cost":100,
                 
                  "location":"Panvel",
                 
-                 "latitude":"19.0016", 
-                "longitude":"73.1202",
+                 "latitude":19.0016, 
+                "longitude":73.1202,
             
             "img": "https://images.pexels.com/photos/388419/pexels-photo-388419.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb"
         },
