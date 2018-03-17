@@ -14,6 +14,36 @@
             "img": "https://imgix.ranker.com/node_img/476/9505712/original/antilia-building-attractions-photo-1?w=650&q=50&fm=jpg&fit=crop&crop=faces"
         },
         {
+            "name": "Oberoy parking",
+            "Rating": "6.5",
+            
+            "categorie":"Average",
+                
+                "cost":100,
+                
+                 "location":"Dadar",
+                
+                 "latitude":19.0268,
+                "longitude":72.8389,
+            
+            "img": "http://www.buildingbutler.com/images/gallery/large/building-facades-5195-16491.jpg"
+        },
+        {
+            "name": "Agarwal apt",
+            "Rating": "7.5",
+            
+            "categorie":"Elite",
+                
+                "cost":150,
+                
+                 "location":"Dadar",
+                
+                 "latitude":19.1804, 
+                "longitude":72.459192,
+            
+            "img": "https://images.pexels.com/photos/534182/pexels-photo-534182.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb/"
+        },
+        {
             "name": "Sukh sagar",
             "Rating": "8.5",
             
@@ -43,21 +73,7 @@
          
             "img": "https://imgix.ranker.com/node_img/48/953017/original/eros-cinema-building-attractions-photo-1?w=650&q=60&fm=jpg&fit=crop&crop=faces"
         },
-        {
-            "name": "Oberoy parking",
-            "Rating": "6.5",
-            
-            "categorie":"Average",
-                
-                "cost":100,
-                
-                 "location":"Dadar",
-                
-                 "latitude":19.0268,
-                "longitude":72.8389,
-            
-            "img": "http://www.buildingbutler.com/images/gallery/large/building-facades-5195-16491.jpg"
-        },
+        
         {
             "name": "Sankalp Apt",
             "Rating": "7.0",
@@ -103,21 +119,7 @@
             
             "img": "https://previews.agefotostock.com/previewimage/medibigoff/31d1556ac2eddea01980cdfd5837e722/wr0282512.jpg"
         },
-        {
-            "name": "Agarwal apt",
-            "Rating": "7.5",
-            
-            "categorie":"Elite",
-                
-                "cost":150,
-                
-                 "location":"Dadar",
-                
-                 "latitude":19.1804, 
-                "longitude":72.459192,
-            
-            "img": "https://images.pexels.com/photos/534182/pexels-photo-534182.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb/"
-        },
+        
         {
             "name": "Kaul heritage",
             "Rating": "9.0",
