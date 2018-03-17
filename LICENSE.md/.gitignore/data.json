@@ -1,6 +1,6 @@
 [
         {
-            "name": "regency",
+            "name": "Regency",
             "Rating": "8.0",
             
             "categorie":"Elite",
@@ -10,7 +10,7 @@
             "img": "https://imgix.ranker.com/node_img/476/9505712/original/antilia-building-attractions-photo-1?w=650&q=50&fm=jpg&fit=crop&crop=faces"
         },
         {
-            "name": "sukh sagar",
+            "name": "Sukh sagar",
             "Rating": "8.5",
             
             "categorie":"Premium",
@@ -60,7 +60,7 @@
             "img": "http://www.mittal.com/images/projects/skylark/main.jpg"
         },
         {
-            "name": "ambernath heights",
+            "name": "Ambernath heights",
             "Rating": "7.0",
             
             "categorie":"Average",
@@ -80,7 +80,7 @@
             "img": "https://images.pexels.com/photos/534182/pexels-photo-534182.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb/"
         },
         {
-            "name": "kaul heritage",
+            "name": "Kaul heritage",
             "Rating": "9.0",
             
             "categorie":"Premium",
@@ -100,7 +100,7 @@
             "img": "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb"
         },
         {
-            "name": "venus apt",
+            "name": "Venus apt",
             "Rating": "8.0",
             
             "categorie":"Elite",
