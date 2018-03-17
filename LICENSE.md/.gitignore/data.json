@@ -4,6 +4,8 @@
             "Rating": "8.0",
             
             "categorie":"Elite",
+                
+             "cost":"200",
             
             "img": "https://imgix.ranker.com/node_img/476/9505712/original/antilia-building-attractions-photo-1?w=650&q=50&fm=jpg&fit=crop&crop=faces"
         },
@@ -12,6 +14,8 @@
             "Rating": "8.5",
             
             "categorie":"Premium",
+                
+                "cost":"150",
             
             "img": "https://housing.com/news/wp-content/uploads/2016/05/Mumbai%E2%80%99s-Tallest-Buildings-Air-India-building-301x400.jpg?x16513"
         },
@@ -20,6 +24,8 @@
             "Rating": "9.0",
           
             "categorie":"Premium",
+                
+                "cost":"150",
          
             "img": "https://imgix.ranker.com/node_img/48/953017/original/eros-cinema-building-attractions-photo-1?w=650&q=60&fm=jpg&fit=crop&crop=faces"
         },
@@ -28,6 +34,8 @@
             "Rating": "6.5",
             
             "categorie":"Average",
+                
+                "cost":"100",
             
             "img": "http://www.buildingbutler.com/images/gallery/large/building-facades-5195-16491.jpg"
         },
@@ -36,6 +44,8 @@
             "Rating": "7.0",
             
             "categorie":"Elite",
+                
+                "cost":"150",
             
             "img": "https://jll-global-gdim-res.cloudinary.com/image/upload/t_ap-property-detail-pad-web/v1505556729/IN_ML20170916/Hoechst-House_7618_20170916_001.jpg"
         },
@@ -44,6 +54,8 @@
             "Rating": "7.5",
             
             "categorie":"Elite",
+                
+                "cost":"150",
             
             "img": "http://www.mittal.com/images/projects/skylark/main.jpg"
         },
@@ -52,6 +64,8 @@
             "Rating": "7.0",
             
             "categorie":"Average",
+                
+                "cost":"100",
             
             "img": "https://previews.agefotostock.com/previewimage/medibigoff/31d1556ac2eddea01980cdfd5837e722/wr0282512.jpg"
         },
@@ -60,6 +74,8 @@
             "Rating": "7.5",
             
             "categorie":"Elite",
+                
+                "cost":"150",
             
             "img": "https://images.pexels.com/photos/534182/pexels-photo-534182.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb/"
         },
@@ -68,6 +84,8 @@
             "Rating": "9.0",
             
             "categorie":"Premium",
+                
+                "cost":"200",
             
             "img": "https://images.pexels.com/photos/271689/pexels-photo-271689.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb"
         },
@@ -76,6 +94,8 @@
             "Rating": "8.5",
             
             "categorie":"Premium",
+                
+                "cost":"200",
             
             "img": "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb"
         },
@@ -84,24 +104,20 @@
             "Rating": "8.0",
             
             "categorie":"Elite",
+                
+                "cost":"150",
             
             "img": "http://2.bp.blogspot.com/-KQ6MLcAy8MI/UZyU4PxnUWI/AAAAAAAAJNI/bI1NV0J-bJo/s640/Venus+Apartment+(Worli).jpg"
         },
         {
             "name": "Saivinayak Appt",
-            "Rating": "8.16",
+            "Rating": "6.5",
             
-            "categorie":"Premium | Elite | Average",
+            "categorie":"Average",
+                
+                "cost":"100",
             
             "img": "https://images.pexels.com/photos/388419/pexels-photo-388419.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb"
-        },
-        {
-            "name": "Naruto: Shippuuden",
-            "Rating": "8.16",
-            
-            "categorie":"Premium | Elite | Average",
-            
-            "img": "https://images.pexels.com/photos/68631/pexels-photo-68631.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb"
         },
         
 ]
